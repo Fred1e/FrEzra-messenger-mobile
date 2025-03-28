@@ -1,0 +1,25 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.idea/
+.vscode/
+build/
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# iOS/Android build directories
+ios/Flutter/.generated/
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# VS Code & IntelliJ configurations
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
