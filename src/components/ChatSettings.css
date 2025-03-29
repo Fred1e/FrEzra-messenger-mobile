@@ -1,0 +1,20 @@
+.chat-settings {
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+.chat-settings ul {
+  list-style: none;
+  padding: 0;
+}
+
+.chat-settings li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.chat-settings li:hover {
+  background-color: #f1f1f1;
+}
