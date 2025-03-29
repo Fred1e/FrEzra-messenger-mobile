@@ -1,0 +1,23 @@
+{
+  "name": "frezra-messenger-mobile",
+  "version": "1.0.0",
+  "description": "FrEzra Messenger Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-native": "^0.64.0",
+    "react-navigation": "^4.4.4",
+    "react-native-paper": "^4.9.2"
+  },
+  "devDependencies": {
+    "react-native-cli": "^2.0.1"
+  },
+  "author": "FredieTech",
+  "license": "MIT"
+}
