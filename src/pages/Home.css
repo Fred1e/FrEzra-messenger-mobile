@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 30%;
+  background-color: #075e54;
+  color: white;
+}
+
+.chat {
+  width: 70%;
+  background-color: #ece5dd; /* WhatsApp background */
+}
