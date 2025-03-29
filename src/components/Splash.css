@@ -1,0 +1,25 @@
+.splash-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #075e54; /* WhatsApp green */
+  color: white;
+  text-align: center;
+}
+
+.splash-screen img {
+  width: 100px;
+  height: 100px;
+}
+
+.splash-screen h2 {
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.splash-screen p {
+  font-size: 18px;
+  margin-top: 5px;
+}
